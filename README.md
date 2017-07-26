@@ -1,7 +1,7 @@
-#StarsToRain
+# StarsToRain
 Simple Python script that exports all Github Stars for a given user into an HTML file importable by Raindrop.io
 
-##Installation and Usage
+## Installation and Usage
 Start by cloning this repo.
 
 This Python script uses [PyGitHub](https://github.com/PyGithub/PyGithub) as a dependency for calling the Github API v3, so first run the following command line:
