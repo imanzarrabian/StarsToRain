@@ -4,7 +4,7 @@ Simple Python script that exports all Github Stars for a given user into an HTML
 ##Installation and Usage
 Start by cloning this repo.
 
-This Python script uses [![PyGitHub](https://github.com/PyGithub/PyGithub)](https://github.com/PyGithub/PyGithub) as a dependency for calling the Github API v3, so first run the following command line:
+This Python script uses [PyGitHub](https://github.com/PyGithub/PyGithub) as a dependency for calling the Github API v3, so first run the following command line:
 
 ```bash
 sudo pip install -r requirements.txt
