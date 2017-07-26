@@ -1,0 +1,2 @@
+#requirements
+PyGithub==1.35
